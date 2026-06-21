@@ -56,14 +56,6 @@
       "quickSearch": 1
     },
     {
-      "key": "幸资源",
-      "name": "🔞幸资源",
-      "type": 0,
-      "api": "https://xzybb1.com/api.php/provide/vod/at/xml",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
       "key": "大地av",
       "name": "🔞大地采集",
       "type": 0,
@@ -81,10 +73,10 @@
       "quickSearch": 1
     },
     {
-      "key": "91精品",
-      "name": "🔞91精品",
+      "key": "红牛资源",
+      "name": "🎥红牛资源 - 电影",
       "type": 1,
-      "api": "https://91jpzyw.com/api.php/provide/vod/at/json",
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1
     },
