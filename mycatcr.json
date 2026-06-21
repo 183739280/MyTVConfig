@@ -18,6 +18,22 @@
       "playerType": 1,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
+    },
+    {
+      "name": "港台电视",
+      "type": 0,
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/HongKong.m3u8",
+      "playerType": 1,
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    },
+    {
+      "name": "台湾电视",
+      "type": 0,
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/TaiWan.m3u8",
+      "playerType": 1,
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
     }
   ],
   "sites": [
