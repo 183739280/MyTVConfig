@@ -12,7 +12,7 @@
       ]
     },
     {
-      "name": "LIVE",
+      "name": "LIVE - 国内直播",
       "type": 0,
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/wwb521/live/refs/heads/main/tv.m3u",
       "playerType": 1,
@@ -20,25 +20,17 @@
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
     {
-      "name": "港台电视",
+      "name": "港台 + 海外直播",
       "type": 0,
-      "url": "https://gh-proxy.com/https://iptv-org.github.io/iptv/countries/hk.m3u",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/HongKong.m3u8",
       "playerType": 1,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
     {
-      "name": "台湾电视",
+      "name": "台湾直播",
       "type": 0,
-      "url": "https://gh-proxy.com/https://iptv-org.github.io/iptv/countries/tw.m3u",
-      "playerType": 1,
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-      "logo": "https://live.fanmingming.com/tv/{name}.png"
-    },
-    {
-      "name": "全球直播",
-      "type": 0,
-      "url": "https://gh-proxy.com/https://iptv-org.github.io/iptv/index.m3u",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/TaiWan.m3u8",
       "playerType": 1,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
